@@ -19,7 +19,7 @@ public class AppTest {
 	@Test
 	public void test() {
 		assertTrue(true);
-		System.out.println("This is a smaple change statement.");
+		System.out.println("This is a sample change statement.");
 	}
 	
 	@Test
