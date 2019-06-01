@@ -21,5 +21,11 @@ public class AppTest {
 		assertTrue(true);
 		System.out.println("This is a smaple change statement.");
 	}
+	
+	@Test
+	public void test2() {
+		assertTrue(true);
+		System.out.println("This is another test added via github for Jenkins Build testing.");
+	}
 
 }
